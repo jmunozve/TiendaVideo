@@ -1,0 +1,17 @@
+# Bases de datos y configuración sensible
+config_db.php
+.env
+
+# Carpetas de editores (VS Code)
+.vscode/
+.idea/
+
+# Archivos de sistema (Windows/Mac)
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs de error y temporales
+error_log
+*.log
+temp/
